@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.button {
+  margin: 10px;
+  font-size: 15px;
+  height: 40px;
+  width: 150px;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 1px 1px 0px 2px rgba (0, 0, 0, 0.3);
+  background: rgb(141, 217, 252);
+  cursor: pointer;
+  background: #585c7e;
+  color: white;
+}
+
+p {
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.message,
+.datePicker {
+  margin: 20px;
+}
+
+.bookingContainer {
+  display: inline-block;
+  background-color: white;
+  border-radius: 5px;
+  color: rgb(34, 11, 71);
+  width: 240px;
+  height: auto;
+  margin: 5px;
+}
+
+.dateRange {
+  margin: 10px;
+}

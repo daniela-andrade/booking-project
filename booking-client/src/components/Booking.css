@@ -1,0 +1,13 @@
+.bookingContainer {
+  display: inline-block;
+  background-color: white;
+  border-radius: 5px;
+  color: rgb(34, 11, 71);
+  width: 240px;
+  height: auto;
+  margin: 5px;
+}
+
+.dateRange {
+  margin: 10px;
+}
