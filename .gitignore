@@ -1,0 +1,7 @@
+booking-server/.vscode
+booking-server/logs/
+booking-server/target/
+booking-server/c:/
+
+booking-client//node_modules/
+booking-client//build/
